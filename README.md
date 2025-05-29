@@ -35,7 +35,7 @@ A classic recreation of the 2048 puzzle game built with **Python** and **Pygame*
 
 ## 🛠️ Technologies Used
 
-- **Python 3.x**
+- **Python 3.11**
 - **Pygame** for game rendering and input handling
 - **Procedural Programming**
 - **Math** and **random** libraries for logic and generation
